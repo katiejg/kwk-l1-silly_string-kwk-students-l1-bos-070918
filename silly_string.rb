@@ -14,7 +14,7 @@ puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
 phrase = "IM NOT SHOUTING"
 
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
+lowercased_phrase = phrase.lowcase # Put a . after phrase and use a String method.
 
 puts lowercased_phrase
 
